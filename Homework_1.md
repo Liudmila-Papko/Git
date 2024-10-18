@@ -50,6 +50,7 @@ ESC :wq
 #### 11. Отправить изменения на внешний репозиторий. 
 ```
 git commit -am "add file About me"
+git push
 ```
 #### 12. Создать файл preferences.json
 ```
